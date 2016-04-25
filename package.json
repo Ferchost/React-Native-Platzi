@@ -1,0 +1,15 @@
+{
+  "name": "Platzi",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^2.4.2",
+    "react": "^0.14.8",
+    "react-native": "^0.23.1",
+    "react-native-fbsdk": "^0.1.0",
+    "sidemenu": "0.0.5"
+  }
+}
